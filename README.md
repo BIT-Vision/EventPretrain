@@ -19,7 +19,7 @@ Extensive experiments show our framework is robust and consistently outperforms 
 </p>
 
 ## ✨News
-- **[2026-07-12]** Pre-trained checkpoints and pre-training datasets released.
+- **[2026-07-12]** Checkpoints and datasets released.
 - **[2025-10-26]** Code released.
 - **[2025-07-06]** Paper accepted by ACM MM 2025.
 
@@ -36,7 +36,7 @@ Extensive experiments show our framework is robust and consistently outperforms 
 |Backbone|after MM|after MM-Trans-CL|
 |:-:|:-:|:-:|
 |ViT|[OneDrive](https://1drv.ms/u/c/d7ca46a8d1a0a9a4/IQDcgep9dHhETaNYRJHwtX91Adi_D2BLpNLXi1tz73atvdg?e=voh1A4) / [BaiduDisk](https://pan.baidu.com/s/1VAPKSf3uUasKeNFJuP8oug?pwd=156a)|[OneDrive](https://1drv.ms/u/c/d7ca46a8d1a0a9a4/IQDcgep9dHhETaNYRJHwtX91Adi_D2BLpNLXi1tz73atvdg?e=voh1A4) / [BaiduDisk](https://pan.baidu.com/s/13UbFvl5qCAU5nFZTgpc3gA?pwd=axa2)|
-|ConvViT|[OneDrive](https://1drv.ms/u/c/d7ca46a8d1a0a9a4/IQB-5tPRym-JSY63iiF-Y3s-AZlvDOyh7N3y29gTpmHHKiY?e=rMcC3t) / [BaiduDisk](https://pan.baidu.com/s/15VqJLycscAU-umiPKWhKWw?pwd=dpqy)|[OneDrive]() / [BaiduDisk](https://pan.baidu.com/s/16zPAw0XNOQhO-z1szTaQ7A?pwd=fwfh)|
+|ConvViT|[OneDrive](https://1drv.ms/u/c/d7ca46a8d1a0a9a4/IQB-5tPRym-JSY63iiF-Y3s-AZlvDOyh7N3y29gTpmHHKiY?e=rMcC3t) / [BaiduDisk](https://pan.baidu.com/s/15VqJLycscAU-umiPKWhKWw?pwd=dpqy)|[OneDrive](https://1drv.ms/u/c/d7ca46a8d1a0a9a4/IQDKLXeFEgOZR7cmo48QtEV2AdpiHOedR3cR0xNvcRxPs28?e=weuzmO) / [BaiduDisk](https://pan.baidu.com/s/16zPAw0XNOQhO-z1szTaQ7A?pwd=fwfh)|
 |Swin|[OneDrive](https://1drv.ms/u/c/d7ca46a8d1a0a9a4/IQBYr3hoVPJvR47dSE5kHpozAY8GTrdjI7mDi8rHYAyhTvk?e=hNzW6z) / [BaiduDisk](https://pan.baidu.com/s/1Mp1W1ycINL5hTgf2q5zyyQ?pwd=jhhc)|[OneDrive](https://1drv.ms/u/c/d7ca46a8d1a0a9a4/IQCT_yrzmAElQp_laDJ3Eyb5AWjM9kR8KICkLT0qs4pF-O4?e=IgYSJ0) / [BaiduDisk](https://pan.baidu.com/s/1Z8ZyvLSbcuHC2dUcUbJifA?pwd=aizc)|
 
 ## 🗂️Datasets
